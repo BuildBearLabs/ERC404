@@ -1,0 +1,9 @@
+{
+  "sandboxId": "spicy-feral-94864396",
+  "chainId": 14663,
+  "rpcUrl": "https://rpc.buildbear.io/spicy-feral-94864396",
+  "faucetUrl": "https://faucet.buildbear.io/spicy-feral-94864396",
+  "explorerUrl": "https://explorer.buildbear.io/spicy-feral-94864396",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/spicy-feral-94864396",
+  "forkingChainId": 1
+}
